@@ -1,0 +1,6 @@
+{
+    "url": "https://raw.githubusercontent.com/MakerMarty/U-Firmware-box/refs/heads/main/",
+    "firmware_version": "ESP32_GENERIC-OTA-20250415-v1.25.0.bin",
+    "app_version": "0.0.2",
+    "app_file": "firmware_v0.0.2.zip"
+}
